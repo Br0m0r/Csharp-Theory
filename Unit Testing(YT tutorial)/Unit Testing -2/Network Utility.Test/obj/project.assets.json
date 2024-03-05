@@ -1164,11 +1164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Network Utility.Test\\Network Utility.Test.csproj",
+      "projectUniqueName": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Network Utility.Test\\Network Utility.Test.csproj",
       "projectName": "Network Utility.Test",
-      "projectPath": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Network Utility.Test\\Network Utility.Test.csproj",
+      "projectPath": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Network Utility.Test\\Network Utility.Test.csproj",
       "packagesPath": "C:\\Users\\stratos\\.nuget\\packages\\",
-      "outputPath": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Network Utility.Test\\obj\\",
+      "outputPath": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Network Utility.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stratos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1185,8 +1185,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Unit Testing 2\\Network Utility.csproj": {
-              "projectPath": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Unit Testing 2\\Network Utility.csproj"
+            "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Unit Testing 2\\Network Utility.csproj": {
+              "projectPath": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Unit Testing 2\\Network Utility.csproj"
             }
           }
         }

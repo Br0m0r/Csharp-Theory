@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Unit Testing 2\\Network Utility.csproj",
+      "projectUniqueName": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Unit Testing 2\\Network Utility.csproj",
       "projectName": "Network Utility",
-      "projectPath": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Unit Testing 2\\Network Utility.csproj",
+      "projectPath": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Unit Testing 2\\Network Utility.csproj",
       "packagesPath": "C:\\Users\\stratos\\.nuget\\packages\\",
-      "outputPath": "D:\\Git Hub Trials\\Exercises\\Unit Testing(YT tutorial)\\Unit Testing 2\\Unit Testing 2\\obj\\",
+      "outputPath": "D:\\Downloads\\C#-Theory\\C#-Theory\\Csharp-Theory\\Unit Testing(YT tutorial)\\Unit Testing -2\\Unit Testing 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stratos\\AppData\\Roaming\\NuGet\\NuGet.Config",
