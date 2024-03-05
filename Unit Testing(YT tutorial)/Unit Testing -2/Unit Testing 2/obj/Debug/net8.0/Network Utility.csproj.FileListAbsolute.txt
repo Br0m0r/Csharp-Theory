@@ -1,0 +1,15 @@
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\bin\Debug\net8.0\Network Utility.exe
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\bin\Debug\net8.0\Network Utility.deps.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\bin\Debug\net8.0\Network Utility.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\bin\Debug\net8.0\Network Utility.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\bin\Debug\net8.0\Network Utility.pdb
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.sourcelink.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\refint\Network Utility.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.pdb
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\Network Utility.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing 2\Unit Testing 2\obj\Debug\net8.0\ref\Network Utility.dll

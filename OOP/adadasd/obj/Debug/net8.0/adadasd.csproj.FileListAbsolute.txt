@@ -1,0 +1,14 @@
+D:\Downloads\Csharp\adadasd\adadasd\bin\Debug\net8.0\adadasd.exe
+D:\Downloads\Csharp\adadasd\adadasd\bin\Debug\net8.0\adadasd.deps.json
+D:\Downloads\Csharp\adadasd\adadasd\bin\Debug\net8.0\adadasd.runtimeconfig.json
+D:\Downloads\Csharp\adadasd\adadasd\bin\Debug\net8.0\adadasd.dll
+D:\Downloads\Csharp\adadasd\adadasd\bin\Debug\net8.0\adadasd.pdb
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.AssemblyInfoInputs.cache
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.AssemblyInfo.cs
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.csproj.CoreCompileInputs.cache
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.dll
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\refint\adadasd.dll
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.pdb
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\adadasd.genruntimeconfig.cache
+D:\Downloads\Csharp\adadasd\adadasd\obj\Debug\net8.0\ref\adadasd.dll

@@ -1,0 +1,30 @@
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.exe
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.deps.json
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.pdb
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.sourcelink.json
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\refint\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.pdb
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Unit Testing\Unit Testing\obj\Debug\net8.0\ref\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\bin\Debug\net8.0\Unit Testing.exe
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\bin\Debug\net8.0\Unit Testing.deps.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\bin\Debug\net8.0\Unit Testing.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\bin\Debug\net8.0\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\bin\Debug\net8.0\Unit Testing.pdb
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.sourcelink.json
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\refint\Unit Testing.dll
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.pdb
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\Unit Testing.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Unit Testing(YT tutorial)\Unit Testing -1\Unit Testing\obj\Debug\net8.0\ref\Unit Testing.dll

@@ -1,0 +1,24 @@
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\Working with class and Objects-Pluralsight.exe
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\Working with class and Objects-Pluralsight.deps.json
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\Working with class and Objects-Pluralsight.runtimeconfig.json
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\Working with class and Objects-Pluralsight.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\Working with class and Objects-Pluralsight.pdb
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.AssemblyInfoInputs.cache
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.AssemblyInfo.cs
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.csproj.CoreCompileInputs.cache
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.sourcelink.json
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\refint\Working with class and Objects-Pluralsight.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.pdb
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.genruntimeconfig.cache
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\ref\Working with class and Objects-Pluralsight.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.csproj.AssemblyReference.cache
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.assert.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.core.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Git Hub Trials\Exercises\Working with class and Objects-Pluralsight\Working with class and Objects-Pluralsight\obj\Debug\net8.0\Working with class and Objects-Pluralsight.csproj.CopyComplete
