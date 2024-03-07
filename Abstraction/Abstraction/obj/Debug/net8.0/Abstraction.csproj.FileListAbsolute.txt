@@ -1,0 +1,15 @@
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.exe
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Abstraction\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
