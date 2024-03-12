@@ -5,7 +5,7 @@
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee employee = new Employee("Bromor","Plays",99);
             employee.FirstName = "Bromor";
             employee.LastName = "Plays";
             employee.EmployeeNumber = 99;
@@ -15,11 +15,9 @@
             employee.GetFullName();
             person.GetDescription();
 
-            Doctor doctor  = new Doctor();
-            doctor.FirstName = "House";
-            doctor.LastName = "Greg";
-            doctor.EmployeeNumber = 10;
-            doctor.Speciality = "Neurosurgeon";
+            Doctor doctor  = new Doctor("Doc","Oc",1,"dentist");
+           
+            
 
             Person person2 = doctor;
             Console.WriteLine(person2.GetDescription());

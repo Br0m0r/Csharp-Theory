@@ -11,6 +11,15 @@ namespace Abstraction
     {
         public int EmployeeNumber { get; set; }
 
+
+        public Employee(string first,string last,int number) 
+        {
+            FirstName = first;
+            LastName = last;
+            EmployeeNumber = number;
+
+        }
+
         public override string GetDescription()
         {
             return GetFullName() + ", " + EmployeeNumber;

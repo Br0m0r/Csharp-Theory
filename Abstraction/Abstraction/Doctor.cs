@@ -10,9 +10,14 @@ namespace Abstraction
     {
         public string Speciality {  get; set; }
 
+        public Doctor(string first,string last,int number,string speciality) : base(first,last,number)
+        {
+            Speciality = speciality;
+        }
+
         public override string GetDescription()
         {
-            return GetFullName() + ", " + EmployeeNumber + ", " + Speciality;
+            return base.GetDescription() + ", " + Speciality;
         }
     }
 }

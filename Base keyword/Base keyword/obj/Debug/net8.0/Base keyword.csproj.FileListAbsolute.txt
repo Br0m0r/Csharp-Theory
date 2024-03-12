@@ -1,0 +1,5 @@
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Base keyword\Base keyword\obj\Debug\net8.0\Base keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Base keyword\Base keyword\obj\Debug\net8.0\Base keyword.AssemblyInfoInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Base keyword\Base keyword\obj\Debug\net8.0\Base keyword.AssemblyInfo.cs
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Base keyword\Base keyword\obj\Debug\net8.0\Base keyword.csproj.CoreCompileInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Base keyword\Base keyword\obj\Debug\net8.0\Base keyword.sourcelink.json
