@@ -1,0 +1,15 @@
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\bin\Debug\net8.0\Interfaces - FromScratch!!.exe
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\bin\Debug\net8.0\Interfaces - FromScratch!!.deps.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\bin\Debug\net8.0\Interfaces - FromScratch!!.runtimeconfig.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\bin\Debug\net8.0\Interfaces - FromScratch!!.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\bin\Debug\net8.0\Interfaces - FromScratch!!.pdb
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.AssemblyInfoInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.AssemblyInfo.cs
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.csproj.CoreCompileInputs.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.sourcelink.json
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\refint\Interfaces - FromScratch!!.dll
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.pdb
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\Interfaces - FromScratch!!.genruntimeconfig.cache
+D:\Downloads\C#-Theory\C#-Theory\Csharp-Theory\Interfaces\Interfaces - FromScratch!!\obj\Debug\net8.0\ref\Interfaces - FromScratch!!.dll

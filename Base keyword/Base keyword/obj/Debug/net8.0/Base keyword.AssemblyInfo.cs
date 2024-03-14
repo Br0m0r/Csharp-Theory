@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Base keyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b356c63869352764a7c2387b6689c6c73f90c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d7acc8e0f9e82ffaa1837e9014184619002f78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Base keyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Base keyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
